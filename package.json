@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ssola129/2021_toy_project/issues"
   },
-  "homepage": "https://github.com/ssola129/2021_toy_project#readme"
+  "homepage": "https://github.com/ssola129/2021_toy_project#readme",
+  "dependencies": {
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
 }
