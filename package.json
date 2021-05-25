@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ssola129/2021_toy_project#readme",
   "dependencies": {
+    "antd": "^4.16.0",
     "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
