@@ -1,0 +1,19 @@
+{
+  "name": "2021_toy_project",
+  "version": "1.0.0",
+  "description": "## 스터디 0단계 Agenda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ssola129@github.com/ssola129/2021_toy_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssola129/2021_toy_project/issues"
+  },
+  "homepage": "https://github.com/ssola129/2021_toy_project#readme"
+}
